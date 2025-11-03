@@ -99,12 +99,10 @@ These machines also have excellent CPUs — feel free to use them for both GPU a
 * **Monday 18:00:** Visit of the Observatory
   → Followed by **stargazing session** after dinner 🌌
 * **Wednesday 20:45:** Café Science *(in French)*
-* **Throughout the week:**
-
   * “**My PhD in 5 minutes**” – volunteers welcome!
   * **AstroInfo Quiz** – propose your questions on Discord
   * **Round Table** – suggest discussion themes on Discord
-* **Thursday 13:30:** **Group Photo**, in front of the main building.
+* **Wednesday 13:30:** **Group Photo**, in front of the main building.
 
 ## Using AI Assistants Responsibly
 
