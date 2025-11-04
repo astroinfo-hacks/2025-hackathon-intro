@@ -43,8 +43,8 @@ and hopefully bring them to a publishable stage!
 
 | Time / Day                | Activity                                                      |
 | ------------------------- | ------------------------------------------------------------- |
-| **Monday 09:00**          | Welcome & introduction (François-Xavier)                      |
-| **Monday morning**        | Hack presentations — *Gosia, Marc & Paolo*                    |
+| **Monday 10:00**          | Welcome & introduction - *Julien*                             |
+| **Monday morning**        | Hack presentations - *Gosia, Marc & Paolo*                    |
 | **Monday 13:30**          | Group formation                                               |
 | **Monday 14:00**          | Hackathon begins!                                             |
 | **Every day 10:00**       | Morning tag-up session (conference room)                      |
