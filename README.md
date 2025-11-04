@@ -25,7 +25,7 @@ and hopefully bring them to a publishable stage!
 
 | Time        | Activity               |
 | ----------- | ---------------------- |
-| 07:30–08:30 | Breakfast              |
+| 07:30–09:00 | Breakfast              |
 | 10:30–11:00 | Morning coffee break   |
 | 12:30–13:30 | Lunch                  |
 | 15:30–16:00 | Afternoon coffee break |
